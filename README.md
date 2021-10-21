@@ -7,7 +7,7 @@
 
 # Participants
 
-*[JxxHxxx](https://github.com/JxxHxxx)<br>
-*[fredlee613](https://github.com/fredlee613)<br>
-*[sallyk0212](https://github.com/sallyk0212)<br>
-*[yeonxxi](https://github.com/yeonxxi)<br>
+[JxxHxxx](https://github.com/JxxHxxx)<br>
+[fredlee613](https://github.com/fredlee613)<br>
+[sallyk0212](https://github.com/sallyk0212)<br>
+[yeonxxi](https://github.com/yeonxxi)<br>
