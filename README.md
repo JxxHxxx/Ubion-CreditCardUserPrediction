@@ -5,12 +5,12 @@
 # **Data**
 
 # **Flow**
-
+[diary link](https://drive.google.com/drive/folders/1xJjq8zguSEhT0yYdGkXwMNsg8LxSZKnr?usp=sharing)
 # **Participants**
 
 [JxxHxxx](https://github.com/JxxHxxx)<br>
 [fredlee613](https://github.com/fredlee613)<br>
-[sallyk0212](https://github.com/sallyk0212)<br>
+[HYEchive](https://github.com/HYEchive)<br>
 [yeonxxi](https://github.com/yeonxxi)<br>
 
 # **Blog**
