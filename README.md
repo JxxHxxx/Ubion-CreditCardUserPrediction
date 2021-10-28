@@ -10,7 +10,7 @@
 
 [JxxHxxx](https://github.com/JxxHxxx)<br>
 [fredlee613](https://github.com/fredlee613)<br>
-[sallyk0212](https://github.com/sallyk0212)<br>
+[HYEchive](https://github.com/HYEchive)<br>
 [yeonxxi](https://github.com/yeonxxi)<br>
 
 # **Blog**
